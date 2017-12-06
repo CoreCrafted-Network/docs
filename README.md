@@ -18,7 +18,7 @@ The documentation site in production is an implementation of the latest commit i
 
 #### Don'ts
 * Making false / unsure modifications in the documentation (e.g. changing the owners to someone else)
-* Making Pull Requests on a single minor issue. (If you spot some minor issues, please group them up and fix them all at once in a single PR)
+* Making Pull Requests on a single minor issue. (If you spot some minor issues, please group them up and fix them all at once in a single PR) (or open an issue [HERE](https://github.com/CoreCrafted-Network/docs/issues) instead)
 
 ### Branching
 We uses [Git Flow](https://github.com/nvie/gitflow) to operate the repository. For more information on Git Flow, please click [here](http://nvie.com/posts/a-successful-git-branching-model/)
