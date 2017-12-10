@@ -18,5 +18,3 @@ taxonomy:
     - To deny , type ``/trade deny`` or click the ``[x]``
 + A trading GUi will appear after the trade is initiated
 + When both player agreed, the trade will start the countdown and be completed.
-
-
