@@ -1,7 +1,7 @@
 ---
-title: Economy System
+title: Custom Enchant
 taxonomy:
     category: docs
 ---
 
-Placeholder
+..

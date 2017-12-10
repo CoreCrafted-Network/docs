@@ -1,7 +1,7 @@
 ---
-title: Economy System
+title: Server Events
 taxonomy:
     category: docs
 ---
 
-Placeholder
+..
