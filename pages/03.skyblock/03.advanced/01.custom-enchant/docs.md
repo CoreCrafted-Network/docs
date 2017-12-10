@@ -1,5 +1,5 @@
 ---
-title: Custom Enchant
+title: Custom Enchants
 taxonomy:
     category: docs
 ---
