@@ -9,7 +9,7 @@ Having difficulties with gameplay , report or even store purchase , contact us I
 ## Email
 + For general support
   - support@corecrafted.net
-+ Individual Staff
++ Individual Staff Member
   - itzjacky@corecrafted.net
   - tntsquid@corecrafted.net
   - jasonc123456@corecrafted.net
@@ -21,4 +21,4 @@ Having difficulties with gameplay , report or even store purchase , contact us I
   - A Staff will reply as soon as possible
 
 ## Discord
-+ [link](https://discord.gg/AgDKMgQ)
++ [Click Me To Join the Official Discord Server](https://discord.gg/AgDKMgQ)
