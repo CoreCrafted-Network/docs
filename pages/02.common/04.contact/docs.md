@@ -19,6 +19,6 @@ Having difficulties with gameplay , report or even store purchase , contact us I
   - At the bottom right corner , there is a livechat gadget
   - Leave your Username , Email , Problem.
   - A Staff will reply as soon as possible
-  
+
 ## Discord
-+ https://discord.gg/AgDKMgQ
++ [link](https://discord.gg/AgDKMgQ)
