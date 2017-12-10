@@ -1,5 +1,5 @@
 ---
 menu: Basics
-redirect: basics/exploration
+redirect: /skyblock/basics/exploration
 class: subtitle
 ---

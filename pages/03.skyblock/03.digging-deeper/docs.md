@@ -1,5 +1,5 @@
 ---
 menu: Advanced
-redirect: advanced/custom-enchant
+redirect: /skyblock/advanced/custom-enchant
 class: subtitle
 ---
