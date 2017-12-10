@@ -8,6 +8,6 @@ In skyblock , islands are nearly everything. WIthout islands, there is no skyblo
 ## The Spawnpoint
 
 When you first join the server, or after you executed `/spawn`, you will be sent here.
-![The Spawnpoint](images/spawn.jpg?resize=500)
+![The Spawnpoint](images/spawn.jpg)
 
 
