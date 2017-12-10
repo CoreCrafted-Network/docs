@@ -13,3 +13,8 @@ taxonomy:
 + A SupplyCrate Event will happen every 5 Hours
 + The Event will happen in PVP Area 
 + A total of 10 SupplyCrates will be dropped into the pvp area
+
+## Mob Spawner
++ Build a mob farm with Spawners that can be purchased from the shop
++ No mob will naturally spawn
+  - Mob Spawner is currently the only way to farming mobs
