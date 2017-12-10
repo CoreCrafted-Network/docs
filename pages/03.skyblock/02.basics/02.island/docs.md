@@ -5,12 +5,12 @@ taxonomy:
 ---
 
 ## Player
-+ To start playing , type `/is` > A list of avalible island preset will be shown for selection!
++ To start playing , type `/is ` > A list of avalible island preset will be shown for selection!
 + Going back to your island, type `/is go` 
 + Calculating your island level, type `/is level`
 + To join/invite another player , you need an invitation from them `/is invite [playername]` ,then type `/is accept [Inviter]` once you receive the invitation
 + To visit another player's island , type `/is warp [playername]` (They need to have a warp sign set up!)
-+ (layout of the welcome sign):
++ Layout of the welcome sign:
 ```
 [Welcome]
 [Description]
