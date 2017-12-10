@@ -3,7 +3,6 @@ title: Economy System
 taxonomy:
     category: docs
 ---
-
 ## Economy System
 
 > Like all Skyblock server , we also have official `Shop` and `AUCTION` for player biding for items : Auctioning
@@ -19,6 +18,5 @@ taxonomy:
     - To deny , type ``/trade deny`` or click the ``[x]``
 + A trading GUi will appear after the trade is initiated
 + When both player agreed, the trade will start the countdown and be completed.
-
 
 
