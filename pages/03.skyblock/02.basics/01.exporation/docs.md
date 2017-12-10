@@ -1,5 +1,5 @@
 ---
-title: Exploration :: Skyblock
+title: Exploration
 taxonomy:
     category: docs
 ---

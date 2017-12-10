@@ -1,5 +1,5 @@
 ---
-title: Island :: Skyblock
+title: Island
 taxonomy:
     category: docs
 ---

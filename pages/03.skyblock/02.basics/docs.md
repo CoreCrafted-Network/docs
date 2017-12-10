@@ -1,5 +1,5 @@
 ---
-title: Economy System
+title: Basics
 taxonomy:
     category: docs
 ---
