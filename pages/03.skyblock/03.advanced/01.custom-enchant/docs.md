@@ -4,6 +4,7 @@ taxonomy:
     category: docs
 ---
 
+Custom Enchants not only help you win every PVP and brag about your PVP SKILLS , you can only have better looking items!!!
 ## Commands
 - To open up the Tinkerer, type ``/Tinker``
 - To open the Custom Enchants GUI , type ``/CE``  or ``/Enchanter``

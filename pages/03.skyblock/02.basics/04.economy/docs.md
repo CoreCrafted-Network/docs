@@ -3,6 +3,8 @@ title: Economy System
 taxonomy:
     category: docs
 ---
+
+How can you survive without money so we give you a way to earn money (kinda).
 ## Economy System
 
 > Like all Skyblock server , we also have official `Shop` and `AUCTION` for player biding for items : Auctioning

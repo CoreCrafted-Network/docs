@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+Get yourself some useful resource and build a 3X3X3 Dirt House!
+
 ## Cobble Generator
 + To Build a cobble gen , simply copy the design at the Shop or however you like.
 + An Advanced Version for 4 players mining together can be made with EASE!
