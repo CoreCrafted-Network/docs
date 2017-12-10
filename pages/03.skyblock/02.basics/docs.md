@@ -1,7 +1,5 @@
 ---
-title: Basics
-taxonomy:
-    category: docs
+menu: Basics
+redirect: basics/exploration
+class: subtitle
 ---
-
-Placeholder
