@@ -22,3 +22,4 @@ Having difficulties with gameplay , report or even store purchase , contact us I
 
 ## Discord
 + [Click Me To Join the Official Discord Server](https://discord.gg/AgDKMgQ)
+<iframe src="https://discordapp.com/widget?id=212825577613295616&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
