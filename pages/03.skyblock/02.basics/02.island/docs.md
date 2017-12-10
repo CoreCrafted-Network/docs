@@ -1,5 +1,5 @@
 ---
-title: Island
+title: The Island
 taxonomy:
     category: docs
 ---
