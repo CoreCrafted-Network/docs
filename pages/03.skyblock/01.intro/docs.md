@@ -1,5 +1,5 @@
 ---
-title: Introduction :: Skyblock
+title: Introduction
 taxonomy:
     category: docs
 ---
