@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+Familiar with the control over your own island? Good, let's get things started by geathering your first piece of cobblestone!
+
 ## Cobble Generator
 + To Build a cobble gen , simply copy the design at the Shop or however you like.
 + An Advanced Version for 4 players mining together can be made with EASE!
