@@ -37,10 +37,3 @@ taxonomy:
     <YetAnotherPlayer>
     <Player>
 ```
-
-## Cobble Generator
-+ To Build a cobble gen , simply copy the design at the Shop
-+ An Advanced Version for 4 players mining together can be made with EASE!
-+ Cobble Gen will generate random ores(Higher Tier Ores are Rarer! Obviously!!!)!
-
-
