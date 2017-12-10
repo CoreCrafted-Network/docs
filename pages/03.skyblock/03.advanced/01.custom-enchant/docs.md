@@ -18,7 +18,7 @@ taxonomy:
   - Legendary        Cost:25000XP Point
 
 ## Rate
-+ Dust [#]_ can be bought from the shop with Money or tinkering items with enchants
++ Dust can be bought from the shop with Money or tinkering items with enchants
 + Angel Dust can increase the success rate of the enchanted book
 + Fixing Dust can decrease the destroy rate of the enchanted book
 
