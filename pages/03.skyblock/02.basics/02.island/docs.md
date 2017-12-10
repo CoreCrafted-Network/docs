@@ -21,7 +21,7 @@ taxonomy:
 + To enable/disable island chat, type `/is teamchat`
 
 ## Chest Protection
-+ To Lock a chest / container, right click the chest that you want to lock with a SIGN
++ To Lock a chest / container, right click the chest that you want to lock with a ``SIGN``
 + To grant access to everyone , place a SIGN on another side of the chest
 + To grant access to a specific player, place a SIGN on another side of the chest with: ::
 ```
