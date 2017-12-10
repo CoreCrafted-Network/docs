@@ -3,9 +3,11 @@ title: The Island
 taxonomy:
     category: docs
 ---
+Great! It's time to get everything set with your very first island!
+## Island Management
+The followings are some commands you need to know when starting off your island
 
-## Player
-+ To start playing , type `/is ` > A list of avalible island preset will be shown for selection!
++ To start playing , type `/is ` for a list of avalible island preset will be ready for your selection!
 + Going back to your island, type `/is go` 
 + Calculating your island level, type `/is level`
 + To join/invite another player , you need an invitation from them `/is invite [playername]` ,then type `/is accept [Inviter]` once you receive the invitation
