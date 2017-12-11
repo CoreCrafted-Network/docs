@@ -69,7 +69,8 @@ Our server rules are made for the sake of server safety and game fairness, and t
 
 ### Content Creators' Notice
 
-1. Any materials and resources [#]_ created for the server is automatically copyrighted to the CoreCrafted Network with credit of author unless specified, in another word: You are not allowed to redistribute resources created for server usage even you are the creator / author due to copyright protection
+1. Any materials and resources [^2] created for the server is automatically copyrighted to the CoreCrafted Network with credit of author unless specified, in another word: You are not allowed to redistribute resources created for server usage even you are the creator / author due to copyright protection
 2. Please make sure any material/resources are created without infringing any of the copyright and licence agreement when including others content in the project.
 
-[^2]: Animal Breeding Machines and Monster Spawner tower is technically not working in Survival Expert Mode - Reborn server (The server is now under development)
+[^1]: Animal Breeding Machines and Monster Spawner tower is technically not working in Survival Expert Mode - Reborn server (The server is now under development)
+[^2]: Material and Resources are generally referring to any products , including schematics, Minecraft worlds (i.e. Server spawnpoint, waiting rooms), Pixel arts, Plugins, Website images.. etc.
