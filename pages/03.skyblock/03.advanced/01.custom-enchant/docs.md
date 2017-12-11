@@ -23,7 +23,7 @@ Custom Enchants not only help you win every PVP and brag about your PVP SKILLS ,
 + Angel Dust can increase the success rate of the enchanted book
 + Fixing Dust can decrease the destroy rate of the enchanted book
 
-## Sould Bound
+## Soul Bound
 + When you died , all items will drop
 + A `Soulbounded` Item can be rescued from `ONE TIME DEATH` and go back to your inventory after death!
 
